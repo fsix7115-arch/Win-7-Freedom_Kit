@@ -1,0 +1,6 @@
+{
+  "name": "Win7 Freedom Kit - Setup Guide & Toolkit",
+  "description": "Complete beginner-friendly GitHub repository guide and interactive setup toolkit for Win7 Freedom Kit: Free local terminal + AI coding agent for Windows 7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
